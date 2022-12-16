@@ -133,6 +133,12 @@ body {
     grid-column: span 2;
 }
 
+.carousel  {
+    width: 30%;
+    display: flex;
+    justify-content:center;
+}
+
 .contenedor .widget-1,
 .contenedor .widget-2 {
     background-color: rgb(254, 170, 106);
